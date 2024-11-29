@@ -1,3 +1,4 @@
+![Black_Friday_Sales](https://github.com/user-attachments/assets/fba46fa0-6b40-4486-a677-73181dc355da)
 # Proje:Black-Friday-Sales
 Bu proje, "ABC Private Limited" isimli bir perakende şirketinin sağladığı müşteri satın alma davranışı verilerini kullanarak müşteri segmentasyonu yapmayı amaçlamaktadır. Veri seti, müşterilerin demografik <br/> bilgilerini (yaş, cinsiyet, medeni durum, yaşadığı şehir kategorisi, mevcut şehirde kalma süresi), ürün bilgilerini (ürün kimlikleri ve kategorileri) ve müşterilerin toplam satın alma tutarını içermektedir. <br/> 
 # Projenin Amacı
